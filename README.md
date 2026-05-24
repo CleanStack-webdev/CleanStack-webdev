@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50">CleanStack</span></h1>
+<h1 align="center">👋 Hi, I'm <b>CleanStack</b></h1>
 
 <p align="center">
-  🎓 <strong>Licence Student – SIGL</strong> | 💻 <strong>Junior Full-Stack Web Developer (In Progress)</strong> | 🚀 <strong>C++ & Problem Solving Enthusiast</strong>
+  🎓 <strong>Licence Student – SIGL</strong> | 💻 <strong>Aspiring Full-Stack Web Developer</strong>
 </p>
 
 ---
@@ -26,18 +26,21 @@
 
 ## 🛠️ Skills & Tools (In Progress)
 
-| **Languages** | **Concepts**      | **Tools**         |
-|---------------|-------------------|-------------------|
-| 🟦 C++        | 📊 Data Structures | 🖥️ Visual Studio  |
-|               | ⚙️ Algorithms      | 🔧 Git & GitHub   |
+| **Languages** | **Concepts**       | **Tools**          |
+|----------------|--------------------|--------------------|
+| 🟦 C++         | 📊 Data Structures | 🖥️ Visual Studio   |
+|                | ⚙️ Algorithms       | 🔧 Git & GitHub    |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=CleanStack-webdev&show_icons=true&theme=radical" height="150" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleanStack-webdev&layout=compact&theme=radical&langs_count=1" height="150" />  
+<p align="center">
+  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CleanStack-webdev&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CleanStack-webdev&theme=radical&layout=donut" />
 </p>
 
 ---
@@ -45,9 +48,17 @@
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/clean-stack-28b428376/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/CleanStack-webdev"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:cleanstack.webdev@example.com"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/clean-stack">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/CleanStack-webdev">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:cleanstack.webdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -56,9 +67,14 @@
 
 ```cpp
 // Building strong foundations before jumping into full-stack development
-class CleanStack {
+
+class CleanStack
+{
 public:
     string speciality = "Information Systems & Software Engineering";
+
     string currentLearning = "C++ & Problem Solving";
+
     string futureGoal = "Full-Stack Web Developer";
 };
+```
