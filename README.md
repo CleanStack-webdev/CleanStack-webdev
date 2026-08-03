@@ -1,35 +1,77 @@
 <h1 align="center">👋 Hi, I'm <b>CleanStack</b></h1>
 
 <p align="center">
-  🎓 <strong>Licence Student – SIGL</strong> | 💻 <strong>Aspiring Full-Stack Web Developer</strong>
+  🎓 <strong>SIGL Student @ USTHB</strong> • 💻 <strong>C# & .NET Developer</strong> • 🚀 <strong>Aspiring Full-Stack Web Developer</strong>
 </p>
 
 ---
 
 ## 📚 About Me
 
-- 🎓 Studying **Information Systems & Software Engineering (SIGL)** at USTHB  
-- 💻 Currently focused on **C++ fundamentals & OOP**  
-- 📈 Following **Abu-Hadhoud Roadmap** to build strong foundations  
-- 🌐 Future goal: Becoming a **Full-Stack Web Developer** and building scalable solutions  
+- 🎓 Studying **Information Systems & Software Engineering (SIGL)** at USTHB
+- 💻 Passionate about **Software Development** and **Clean Code**
+- 🖥️ Building desktop applications with **C# Windows Forms**
+- 📈 Following the **Programming Advices Roadmap** to master backend development
+- 🌐 Working toward becoming a **Full-Stack Web Developer**
 
 ---
 
-## 🎯 Current Learning Goals
+## 🎯 Current Focus
 
-- 📌 Master **C++** concepts and Object-Oriented Programming  
-- 📌 Solve algorithmic challenges to sharpen logic skills  
-- 📌 Practice with small C++ projects  
-- 📌 Prepare for **Front-End & Back-End** development  
+- ✅ C# Fundamentals
+- ✅ Object-Oriented Programming (OOP)
+- ✅ Windows Forms Development
+- ✅ Git & GitHub
+- 🔄 Preparing for ASP.NET Core Web Development
 
 ---
 
-## 🛠️ Skills & Tools (In Progress)
+## 🛠️ Tech Stack
 
-| **Languages** | **Concepts**       | **Tools**          |
-|----------------|--------------------|--------------------|
-| 🟦 C++         | 📊 Data Structures | 🖥️ Visual Studio   |
-|                | ⚙️ Algorithms       | 🔧 Git & GitHub    |
+### Languages
+
+- C++
+- C#
+- SQL (Learning)
+
+### Frameworks
+
+- .NET Framework
+- Windows Forms
+
+### Concepts
+
+- Object-Oriented Programming
+- Data Structures
+- Algorithms
+- Event-Driven Programming
+- GUI Development
+
+### Tools
+
+- Visual Studio 2022
+- Git
+- GitHub
+
+---
+
+## 🚀 Featured Projects
+
+- 🍕 Pizza Project
+- 🎮 Tic-Tac-Toe Game
+- 🎨 Simple Paint
+
+More projects coming soon...
+
+---
+
+## 📈 Current Goals
+
+- Learn ASP.NET Core
+- Build REST APIs
+- Learn Entity Framework Core
+- Build Full-Stack Web Applications
+- Contribute to Open Source
 
 ---
 
@@ -48,12 +90,12 @@
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/clean-stack">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
   <a href="https://github.com/CleanStack-webdev">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/clean-stack/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:cleanstack.webdev@gmail.com">
@@ -65,16 +107,15 @@
 
 ## 💻 Code Snapshot
 
-```cpp
-// Building strong foundations before jumping into full-stack development
-
-class CleanStack
+```csharp
+public class CleanStack
 {
-public:
-    string speciality = "Information Systems & Software Engineering";
+    public string Education => "Information Systems & Software Engineering";
 
-    string currentLearning = "C++ & Problem Solving";
+    public string CurrentFocus => "C# • Windows Forms • .NET";
 
-    string futureGoal = "Full-Stack Web Developer";
-};
+    public string NextStep => "ASP.NET Core & Full-Stack Development";
+
+    public string Motto => "Build strong foundations before building complex systems.";
+}
 ```
